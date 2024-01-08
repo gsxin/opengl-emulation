@@ -1,0 +1,6 @@
+#!/bin/bash
+export MESA_GL_VERSION_OVERRIDE=4.6COMPAT
+export MESA_GLSL_VERSION_OVERRIDE=430
+#Software Rendering
+export LIBGL_ALWAYS_SOFTWARE=1
+citra-qt
