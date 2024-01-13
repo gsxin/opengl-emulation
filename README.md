@@ -1,5 +1,5 @@
-# opengl-emulation
-This script enables latest(v4.6) opengl emulation for windows and linux.
+# opengl-software-emulation
+This script enables latest(v4.6) opengl software emulation for windows and linux.
 
 This script runs by using the software rendering by mesa on systems which don't support latest opengl.
 
